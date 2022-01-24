@@ -1,6 +1,5 @@
 ### Hi there 👋
-About MGL Cent
-We are introducing a Share-Investment-Property-Own concept that provides people to own economically efficient real estates across various locations of the world and benefit from its profit share. MGL Cent is our projects’ crypto voucher for our future services and products.
+We are introducing a Share-Investment-Property-Own concept that provides people to own economically efficient real estates across various locations of the world and benefit from it. MGL Cent is our projects’ crypto voucher for our future services and products.
 <!--
 **mglcent/mglcent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
